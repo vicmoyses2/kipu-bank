@@ -40,6 +40,19 @@ All deposits and withdrawals are tracked through emitted events.
 
 ---
 
+## 🌐 **Verified Contract — Sepolia Testnet**
+
+> ⚡ **Live Deployed & Verified on Etherscan**
+
+You can interact with the **official verified KipuBank contract** deployed on the **Sepolia Testnet** via the link below:
+
+🔗 **Etherscan Address:**  
+[`0x3cBA6A390232D04CCc0EA8dC44208dA7C610b60E`](https://sepolia.etherscan.io/address/0x3cba6a390232d04ccc0ea8dc44208da7c610b60e#code)
+
+💬 This deployment is publicly verified on-chain and open for inspection, allowing direct interaction through **Etherscan** or compatible wallets such as **MetaMask**.
+
+---
+
 ### 🔧 2. Using Foundry (CLI)
 
 Make sure you have [Foundry](https://book.getfoundry.sh/getting-started/installation) installed.
