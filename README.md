@@ -3,6 +3,8 @@
 **KipuBank** is a simple smart contract that simulates a decentralized bank with a **global deposit cap (`bankCapacity`)** and a **maximum withdrawal limit per transaction**.  
 Each user can deposit and withdraw ETH securely, while the total contract balance can never exceed the defined capacity.
 
+Developed collaboratively by **[Victor Moyses Nascimento](https://github.com/victormoyses)** and **[Bruno Pancotto](https://github.com/pancotto)** as part of the **ETH-KIPU blockchain learning project**.
+
 ---
 
 ## 📘 Description
